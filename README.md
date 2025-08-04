@@ -1,4 +1,4 @@
-#AI SAAS App Using PERN STACK
+# AI SAAS App Using PERN STACK
 
 
 In this Project, we will guide you through the process of building and deploying a fully functional AI SaaS Application with Subscriptions billings using the PERN stack (PostgreSQL, Express, React and Node.js).
