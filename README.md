@@ -10,13 +10,11 @@ Of course\! Here is a well-structured and attractive version of your project des
 
 [](https://opensource.org/licenses/MIT)
 [](https://github.com/)
-[](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers)
+[](https://www.google.com/search?q=https://github.com/Ramneek07/QuickAI/stargazers)
 
 ## ✨ Live Demo
 
-Check out the live application here: **[demo-link.yourwebsite.com](https://www.google.com/search?q=https://demo-link.yourwebsite.com)**
-
-*(Add a link to your deployed application)*
+Check out the live application here: **https://quick-ai-gules.vercel.app/**
 
 -----
 
@@ -71,7 +69,7 @@ Follow these instructions to get a local copy of the project up and running for 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+    git clone https://github.com/Ramneek07/QuickAI.git
     cd YOUR_REPO
     ```
 
@@ -131,7 +129,7 @@ Follow these instructions to get a local copy of the project up and running for 
     pnpm run dev
     ```
 
-    The server will start on `http://localhost:8080`.
+    The server will start on `http://localhost:3000`.
 
 2.  **Start the frontend development server:**
 
